@@ -1,3 +1,3 @@
-[Build and Deploy](https://github.com/TatyanaShakhmina/ra-events-state/actions/workflows/main.yml/badge.svg)
+[![Build and Deploy](https://github.com/TatyanaShakhmina/ra-events-state/actions/workflows/deploy.yml/badge.svg)](https://github.com/TatyanaShakhmina/ra-events-state/actions)
 
-https://tatyanashakhmina.github.io/ra-events-state/
+[Ссылка на проект (GitHub Pages)](https://tatyanashakhmina.github.io/ra-events-state/)
